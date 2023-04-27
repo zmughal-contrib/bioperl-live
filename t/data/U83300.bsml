@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?format DECIMAL="."?>
-<!DOCTYPE Bsml PUBLIC "-//EBI//Labbook, Inc. BSML DTD//EN" "http://www.ebi.ac.uk/xembl/dtd/BSML2_2.DTD">
+<!DOCTYPE Bsml PUBLIC "-//EBI//Labbook, Inc. BSML DTD//EN" "http://xml.coverpages.org/bsml2_20dtd-dtd.txt">
 <!-- The BSML specification was created by Joseph H. Spitzner, Ph.D., LabBook, Inc. http://www.labbook.com -->
 
 <Bsml>
